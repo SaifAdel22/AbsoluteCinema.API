@@ -1,0 +1,6 @@
+@AbsoluteCinema.API_HostAddress = http://localhost:5108
+
+GET {{AbsoluteCinema.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
